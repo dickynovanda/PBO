@@ -34,5 +34,5 @@ public class Produk {
                 tanggalPanen, jenisTanaman, jenisBenih, tanggalTanam, beratHasilPanen);
     }
     //adili
-    // Getter & Setter untuk akses privat
+    // Getter & Setter untuk akses privat\77
 }
