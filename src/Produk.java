@@ -35,4 +35,6 @@ public class Produk {
     }
     //adili
     // Getter & Setter untuk akses privat\77
+
+
 }
